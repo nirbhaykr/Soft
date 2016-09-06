@@ -1,0 +1,54 @@
+Manifest-Version: 1.0
+Require-Bundle: com.aptana.core,com.aptana.core.io,com.aptana.core.epl
+ ,com.amazon.s3;visibility:=reexport
+Export-Package: com.aptana.ide.filesystem.s3
+Bundle-Vendor: %providerName
+Bundle-ActivationPolicy: lazy
+Bundle-Version: 3.0.0.1385948737
+Bundle-Name: %pluginName
+Bundle-ManifestVersion: 2
+Bundle-Activator: com.aptana.ide.filesystem.s3.S3FileSystemPlugin
+Bundle-SymbolicName: com.aptana.filesystem.s3;singleton:=true
+Bundle-RequiredExecutionEnvironment: J2SE-1.5
+Eclipse-ExtensibleAPI: true
+
+Name: OSGI-INF/l10n/bundle.properties
+SHA1-Digest: MAmq4/KbDS/GI2Z7MiA0pys5Fuw=
+
+Name: com/aptana/ide/filesystem/s3/Messages.class
+SHA1-Digest: 6bEyxpeT7zkgxWVCafWLr3ayb7I=
+
+Name: com/aptana/ide/filesystem/s3/S3ConnectionPoint.class
+SHA1-Digest: m4rkCnQwdveKSJVDJ9XdY1M6GjY=
+
+Name: com/aptana/ide/filesystem/s3/messages.properties
+SHA1-Digest: zsx2Zqb0a20WU8Roct7FvirFejo=
+
+Name: com/aptana/ide/filesystem/s3/Policy.class
+SHA1-Digest: DIfVEZqW0vHI7boeY/oeY3XkEGw=
+
+Name: com/aptana/ide/filesystem/s3/S3FileStore.class
+SHA1-Digest: z+9aIrNAnvNJMGv9hLw+yzpnvAc=
+
+Name: com/aptana/ide/filesystem/s3/S3FileStore$HttpForcingOutputStream
+ .class
+SHA1-Digest: R2r1xVV5HX+/zlsqB7Ul9iZiH2c=
+
+Name: com/aptana/ide/filesystem/s3/S3FileTree.class
+SHA1-Digest: 7pubal4izwx0MACGIBSk7TptS6E=
+
+Name: com/aptana/ide/filesystem/s3/S3FileTree$PsuedoDirEntry.class
+SHA1-Digest: xkPVabWg2VV2ncNLxLsu60rt+e0=
+
+Name: com/aptana/ide/filesystem/s3/S3FileSystem.class
+SHA1-Digest: W9aoQHHM32/k05eaLsFr9LXJn3U=
+
+Name: plugin.xml
+SHA1-Digest: Xbtn8Rg36sUqYyqu6XFReOw4rRk=
+
+Name: license.html
+SHA1-Digest: +Yz5nwONrh9sMiCFpDZt+ghYCec=
+
+Name: com/aptana/ide/filesystem/s3/S3FileSystemPlugin.class
+SHA1-Digest: 6khlB4XEyM1AoaLokrZr9INQnm8=
+

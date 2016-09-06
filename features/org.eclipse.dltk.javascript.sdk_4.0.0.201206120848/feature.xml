@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feature
+      id="org.eclipse.dltk.javascript.sdk"
+      label="%featureName"
+      version="4.0.0.201206120848"
+      provider-name="%providerName"
+      image="eclipse_update_120.jpg">
+
+   <description>
+      %description
+   </description>
+
+   <license url="%licenseURL">
+      %license
+   </license>
+
+  <plugin
+         id="org.eclipse.dltk.javascript.core.source"
+         download-size="553"
+         install-size="1257"
+         version="4.0.0.201206120848"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.dltk.javascript.debug.source"
+         download-size="9"
+         install-size="12"
+         version="4.0.0.201206120848"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.dltk.javascript.debug.ui.source"
+         download-size="90"
+         install-size="171"
+         version="4.0.0.201206120848"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.dltk.javascript.jdt.integration.source"
+         download-size="5"
+         install-size="6"
+         version="4.0.0.201206120848"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.dltk.javascript.launching.source"
+         download-size="28"
+         install-size="76"
+         version="4.0.0.201206120848"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.dltk.javascript.rhino.source"
+         download-size="509"
+         install-size="1015"
+         version="4.0.0.201206120848"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.dltk.javascript.rhino.dbgp.source"
+         download-size="52"
+         install-size="90"
+         version="4.0.0.201206120848"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.dltk.javascript.ui.source"
+         download-size="410"
+         install-size="894"
+         version="4.0.0.201206120848"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.dltk.javascript.jsjdtdebugger.source"
+         download-size="19"
+         install-size="36"
+         version="4.0.0.201206120848"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.dltk.javascript.formatter.source"
+         download-size="128"
+         install-size="243"
+         version="4.0.0.201206120848"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.dltk.javascript.parser.source"
+         download-size="401"
+         install-size="844"
+         version="4.0.0.201206120848"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.dltk.javascript.core.manipulation.source"
+         download-size="413"
+         install-size="1080"
+         version="4.0.0.201206120848"
+         unpack="false"/>
+
+</feature>

@@ -1,0 +1,50 @@
+Manifest-Version: 1.0
+Export-Package: at.jta,ch.randelshofer.quaqua.util;x-friends:="com.apt
+ ana.core",com.aptana.plist,com.eaio.uuid
+Bundle-Vendor: %providerName
+Bundle-ClassPath: .,uuid.jar,WinRegistry-4.4.jar
+Bundle-Version: 4.0.0.1407443193
+Bundle-Name: %pluginName
+Bundle-ManifestVersion: 2
+Bundle-SymbolicName: com.aptana.libraries
+Bundle-RequiredExecutionEnvironment: J2SE-1.5
+
+Name: OSGI-INF/l10n/bundle.properties
+SHA1-Digest: TDsZ/mOE/P3cqh18tfCE1WlSBQs=
+
+Name: WinRegistry-4.4.jar
+SHA1-Digest: Pui4HCMbtqizA5SWnq6Hd+mJN7s=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: 6mDW8kS/T9pK7w1by/wcxy21Z20=
+
+Name: winregistry-LICENSE
+SHA1-Digest: kuSoTaRdXkVQy2as/g+3ZEtYKoI=
+
+Name: os/macosx/cocoasudo
+SHA1-Digest: QeuC9q2ZQBOnZyKrs0LZmiKZ+j4=
+
+Name: ch/randelshofer/quaqua/util/BinaryPListParser$BPLUid.class
+SHA1-Digest: pkG+/Z0UprY83kW8b36mdOhuW54=
+
+Name: ch/randelshofer/quaqua/util/BinaryPListParser$BPLArray.class
+SHA1-Digest: 9CtYzrwNaTmAuoZxs6WAqeoEABI=
+
+Name: ch/randelshofer/quaqua/util/BinaryPListParser$BPLDict.class
+SHA1-Digest: Dft2V0tO/ehS+6aRuhFuxLqEvgM=
+
+Name: ch/randelshofer/quaqua/util/BinaryPListParser.class
+SHA1-Digest: /1tFdXetO3eF8My/E1kcWUwmKMA=
+
+Name: META-INF/p2.inf
+SHA1-Digest: yNDKhpYsXJIH3lYphV89qiaC+uA=
+
+Name: quaqua.license.html
+SHA1-Digest: 26Oxytk1scc7qbfOOQA+Mt43zk0=
+
+Name: uuid.jar
+SHA1-Digest: 8km5nCSK9zBZDG2q+bM7smgxjXA=
+
+Name: com/aptana/plist/IPListParser.class
+SHA1-Digest: ZSgiGAkl6gqTYA70YCyOMjQnme0=
+

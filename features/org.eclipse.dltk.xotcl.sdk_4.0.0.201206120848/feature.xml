@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feature
+      id="org.eclipse.dltk.xotcl.sdk"
+      label="%featureName"
+      version="4.0.0.201206120848"
+      provider-name="%providerName"
+      image="eclipse_update_120.jpg">
+
+   <description>
+      %description
+   </description>
+
+   <license url="%licenseURL">
+      %license
+   </license>
+
+  <plugin
+         id="org.eclipse.dltk.xotcl.core.source"
+         download-size="88"
+         install-size="176"
+         version="4.0.0.201206120848"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.dltk.xotcl.ui.source"
+         download-size="35"
+         install-size="41"
+         version="4.0.0.201206120848"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.dltk.xotcl.testing.xounit.source"
+         download-size="16"
+         install-size="28"
+         version="4.0.0.201206120848"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.dltk.xotcl.source"
+         download-size="9"
+         install-size="9"
+         version="4.0.0.201206120848"
+         unpack="false"/>
+
+</feature>

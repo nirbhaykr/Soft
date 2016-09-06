@@ -1,0 +1,85 @@
+Manifest-Version: 1.0
+Export-Package: com.amazon.s3
+Bundle-Vendor: %providerName
+Bundle-Version: 3.0.0.1385945603
+Bundle-Name: %pluginName
+Bundle-ManifestVersion: 2
+Bundle-SymbolicName: com.amazon.s3
+Bundle-RequiredExecutionEnvironment: J2SE-1.5
+
+Name: com/amazon/s3/Response.class
+SHA1-Digest: qpTpxWWXNCj4Yn48NVRuPAf88Es=
+
+Name: com/amazon/s3/CallingFormat$VanityCallingFormat.class
+SHA1-Digest: SU7lJTVIPQv4MMVv4zfqAqys7ho=
+
+Name: com/amazon/s3/Utils.class
+SHA1-Digest: oR2F3LdXQ5w89mi57ffY9iWqTdI=
+
+Name: com/amazon/s3/CallingFormat.class
+SHA1-Digest: DIUm93QbbgILlt2e64ntPHrriws=
+
+Name: com/amazon/s3/S3Object.class
+SHA1-Digest: oBSb2R6/vRCLHHeE8PVLo6qsMpA=
+
+Name: com/amazon/thirdparty/Base64$OutputStream.class
+SHA1-Digest: lxCKIs6Q30om8ZpPzxG+y39svhI=
+
+Name: com/amazon/s3/ListBucketResponse$ListBucketHandler.class
+SHA1-Digest: k5GRd0QyehtAJSctvnxX5DR2F5s=
+
+Name: com/amazon/s3/LocationResponse$LocationResponseHandler.class
+SHA1-Digest: 95fp4VAUuisC1lrnjWa4csZO9tU=
+
+Name: com/amazon/s3/LocationResponse.class
+SHA1-Digest: aFS1tsjd+GSstCttsxXf3IVvWXg=
+
+Name: com/amazon/s3/ListBucketResponse.class
+SHA1-Digest: dkTr+yk37KLV/BYqJOHe9ZHD9p4=
+
+Name: com/amazon/s3/CallingFormat$SubdomainCallingFormat.class
+SHA1-Digest: ywMQNdJ0gNGE21JBwql2ZSZG8YY=
+
+Name: com/amazon/thirdparty/Base64.class
+SHA1-Digest: IyOel83H0AASadcWnt91wLIWMBY=
+
+Name: com/amazon/s3/Bucket.class
+SHA1-Digest: AGZoZ+XCA58JJXBi66b1wenIdBs=
+
+Name: com/amazon/s3/ListAllMyBucketsResponse.class
+SHA1-Digest: pc/QZ5iQU2xvbKrilF2G4qx05+A=
+
+Name: com/amazon/s3/Owner.class
+SHA1-Digest: 9KrXRqwvoFgkAG6zZUSw4I0Jxts=
+
+Name: com/amazon/s3/ListEntry.class
+SHA1-Digest: OwQkZ7Azy7MdTGAZCI4hINL3RGM=
+
+Name: com/amazon/s3/GetResponse.class
+SHA1-Digest: CAa3JrYDy+HgVTEousnLmF9jBDQ=
+
+Name: com/amazon/thirdparty/Base64$InputStream.class
+SHA1-Digest: 8BUTDHRjrYdVocGhgrxeWSO8htE=
+
+Name: com/amazon/s3/CommonPrefixEntry.class
+SHA1-Digest: iX9tjW4TWCKekCjhBinKmlMi2Mo=
+
+Name: OSGI-INF/l10n/bundle.properties
+SHA1-Digest: 4iI9LrMZ5ufS5zytLEH2wLdTcD0=
+
+Name: com/amazon/s3/CallingFormat$PathCallingFormat.class
+SHA1-Digest: dqUauyaggcjIUk8wrV5wkxqBJ6M=
+
+Name: README
+SHA1-Digest: ZP/eDQObdAgbmUdX6DPmznhFFCc=
+
+Name: com/amazon/s3/QueryStringAuthGenerator.class
+SHA1-Digest: 3oIArwsdboFBWjEVE/uNlltBoN4=
+
+Name: com/amazon/s3/ListAllMyBucketsResponse$ListAllMyBucketsHandler.c
+ lass
+SHA1-Digest: yLeuigAEpUW7dDEpquG60+QioEg=
+
+Name: com/amazon/s3/AWSAuthConnection.class
+SHA1-Digest: Ch/oZwjKrEwn7r5PN1oz4TafOd8=
+

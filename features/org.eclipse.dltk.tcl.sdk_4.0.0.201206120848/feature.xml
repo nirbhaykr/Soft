@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feature
+      id="org.eclipse.dltk.tcl.sdk"
+      label="%featureName"
+      version="4.0.0.201206120848"
+      provider-name="%providerName"
+      image="eclipse_update_120.jpg">
+
+   <description>
+      %description
+   </description>
+
+   <license url="%licenseURL">
+      %license
+   </license>
+
+  <plugin
+         id="org.eclipse.dltk.tcl.ui.source"
+         download-size="375"
+         install-size="731"
+         version="4.0.0.201206120848"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.dltk.tcl.core.source"
+         download-size="409"
+         install-size="856"
+         version="4.0.0.201206120848"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.dltk.tcl.debug.source"
+         download-size="13"
+         install-size="19"
+         version="4.0.0.201206120848"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.dltk.tcl.debug.ui.source"
+         download-size="141"
+         install-size="272"
+         version="4.0.0.201206120848"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.dltk.tcl.launching.source"
+         download-size="33"
+         install-size="66"
+         version="4.0.0.201206120848"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.dltk.tcl.tclchecker.source"
+         download-size="245"
+         install-size="543"
+         version="4.0.0.201206120848"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.dltk.tcl.activestatedebugger.source"
+         download-size="138"
+         install-size="286"
+         version="4.0.0.201206120848"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.dltk.tcl.testing.source"
+         download-size="23"
+         install-size="42"
+         version="4.0.0.201206120848"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.dltk.tcl.testing.tcltest.source"
+         download-size="12"
+         install-size="19"
+         version="4.0.0.201206120848"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.dltk.tcl.doc.user.source"
+         download-size="4518"
+         install-size="4874"
+         version="4.0.0.201206120848"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.dltk.tcl.parser.source"
+         download-size="227"
+         install-size="607"
+         version="4.0.0.201206120848"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.dltk.tcl.validators.source"
+         download-size="43"
+         install-size="88"
+         version="4.0.0.201206120848"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.dltk.tcl.tcllib.source"
+         download-size="12"
+         install-size="139"
+         version="4.0.0.201206120848"/>
+
+   <plugin
+         id="org.eclipse.dltk.tcl.formatter.source"
+         download-size="25"
+         install-size="42"
+         version="4.0.0.201206120848"
+         unpack="false"/>
+</feature>

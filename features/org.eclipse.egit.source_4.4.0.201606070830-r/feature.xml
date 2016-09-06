@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feature
+      id="org.eclipse.egit.source"
+      label="%featureName"
+      version="4.4.0.201606070830-r"
+      provider-name="%providerName"
+      plugin="org.eclipse.egit">
+
+   <description url="http://www.eclipse.org/egit/">
+      %description
+   </description>
+
+   <copyright>
+      %copyright
+   </copyright>
+
+   <license url="%licenseURL">
+      %license
+   </license>
+
+   <url>
+      <update label="%updateSiteName" url="http://download.eclipse.org/egit/updates"/>
+      <discovery label="%updateSiteName" url="http://download.eclipse.org/egit/updates"/>
+   </url>
+
+   <plugin
+         id="org.eclipse.egit.core.source"
+         download-size="281"
+         install-size="814"
+         version="4.4.0.201606070830-r"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.egit.ui.source"
+         download-size="1336"
+         install-size="3958"
+         version="4.4.0.201606070830-r"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.egit.mylyn.ui.source"
+         download-size="17"
+         install-size="33"
+         version="4.4.0.201606070830-r"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.egit.gitflow.source"
+         download-size="40"
+         install-size="100"
+         version="4.4.0.201606070830-r"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.egit.gitflow.ui.source"
+         download-size="61"
+         install-size="138"
+         version="4.4.0.201606070830-r"
+         unpack="false"/>
+</feature>

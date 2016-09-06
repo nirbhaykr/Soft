@@ -1,0 +1,14 @@
+Manifest-Version: 1.0
+Build-Jdk: 1.6.0_21
+Eclipse-SourceBundle: org.eclipse.dltk.tcl.tcllib;version="4.0.0.20120
+ 6120848";roots:="."
+Built-By: hudsonbuild
+Bundle-SymbolicName: org.eclipse.dltk.tcl.tcllib.source
+Archiver-Version: Plexus Archiver
+Created-By: Apache Maven
+Bundle-Version: 4.0.0.201206120848
+Bundle-ManifestVersion: 2
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: 09gN05tobgS/MdtqyTNQhOhB73M=
+

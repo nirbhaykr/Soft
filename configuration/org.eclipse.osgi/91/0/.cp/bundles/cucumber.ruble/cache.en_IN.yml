@@ -1,0 +1,484 @@
+!!com.aptana.scripting.model.BundleElement
+author: Christopher Williams
+children:
+- !!com.aptana.scripting.model.MenuElement
+  children:
+  - children: &id001 []
+    commandName: Feature
+    customProperties: null
+    displayName: Feature
+    path: bundle.rb
+    scope: null
+  - children: *id001
+    commandName: Scenario
+    customProperties: null
+    displayName: Scenario
+    path: bundle.rb
+    scope: null
+  - children: *id001
+    commandName: Scenario (heading only)
+    customProperties: null
+    displayName: Scenario (heading only)
+    path: bundle.rb
+    scope: null
+  - children: *id001
+    commandName: Scenario Outline
+    customProperties: null
+    displayName: Scenario Outline
+    path: bundle.rb
+    scope: null
+  - children: *id001
+    commandName: Given Step
+    customProperties: null
+    displayName: Given Step
+    path: bundle.rb
+    scope: null
+  - children: *id001
+    commandName: When Step
+    customProperties: null
+    displayName: When Step
+    path: bundle.rb
+    scope: null
+  - children: *id001
+    commandName: Then Step
+    customProperties: null
+    displayName: Then Step
+    path: bundle.rb
+    scope: null
+  - children: *id001
+    commandName: Cucumber Multiline Steps
+    customProperties: null
+    displayName: Cucumber Multiline Steps
+    path: bundle.rb
+    scope: null
+  - children: *id001
+    commandName: Then Step Plaintext
+    customProperties: null
+    displayName: Then Step Plaintext
+    path: bundle.rb
+    scope: null
+  - children: *id001
+    commandName: When Step Plaintext
+    customProperties: null
+    displayName: When Step Plaintext
+    path: bundle.rb
+    scope: null
+  - children: *id001
+    commandName: Autocomplete Step
+    customProperties: null
+    displayName: Autocomplete Step
+    path: bundle.rb
+    scope: null
+  - children: *id001
+    commandName: Create All Undefined Steps
+    customProperties: null
+    displayName: Create All Undefined Steps
+    path: bundle.rb
+    scope: null
+  - children: *id001
+    commandName: Choose Alternate File
+    customProperties: null
+    displayName: Choose Alternate File
+    path: bundle.rb
+    scope: null
+  - children: *id001
+    commandName: Goto Alternate File
+    customProperties: null
+    displayName: Goto Alternate File
+    path: bundle.rb
+    scope: null
+  - children: *id001
+    commandName: Goto Current Step
+    customProperties: null
+    displayName: Goto Current Step
+    path: bundle.rb
+    scope: null
+  - children: *id001
+    commandName: Run Feature
+    customProperties: null
+    displayName: Run Feature
+    path: bundle.rb
+    scope: null
+  - children: *id001
+    commandName: Run Single Scenario
+    customProperties: null
+    displayName: Run Single Scenario
+    path: bundle.rb
+    scope: null
+  - children: *id001
+    commandName: Autoformat Feature (using Cucumber)
+    customProperties: null
+    displayName: Autoformat Feature (using Cucumber)
+    path: bundle.rb
+    scope: null
+  - children: *id001
+    commandName: Align Table Cells
+    customProperties: null
+    displayName: Align Table Cells
+    path: bundle.rb
+    scope: null
+  commandName: Cucumber
+  customProperties: null
+  displayName: Cucumber
+  path: bundle.rb
+  scope: null
+- !!com.aptana.scripting.model.EnvironmentElement {customProperties: null, displayName: environment-838249f4-0516-4f35-9278-74fe45f89faf,
+  path: bundle.rb, scope: text.cucumber.feature}
+- !!com.aptana.scripting.model.CommandElement
+  async: false
+  customProperties: null
+  displayName: Align Table Cells
+  input: [selection, document]
+  inputPath: null
+  keyBindingMap:
+    ALL: [M1+M2+F]
+  outputPath: null
+  outputType: replace_selection
+  path: commands/align_table_cells.rb
+  runType: current_thread
+  scope: text.cucumber.feature
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.CommandElement
+  async: false
+  customProperties: null
+  displayName: Goto Alternate File
+  input: [none]
+  inputPath: null
+  keyBindingMap:
+    ALL: [CONTROL+M2+ARROW_DOWN]
+  outputPath: null
+  outputType: show_as_tooltip
+  path: commands/alternate_file.rb
+  runType: current_thread
+  scope: text.cucumber.feature, source.ruby.rspec.cucumber.steps
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.CommandElement
+  async: false
+  customProperties: null
+  displayName: Autocomplete Step
+  input: [selection, line]
+  inputPath: null
+  keyBindingMap:
+    ALL: [ALT+ESC]
+  outputPath: null
+  outputType: insert_as_snippet
+  path: commands/autocomplete_step.rb
+  runType: current_thread
+  scope: text.cucumber.feature
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.CommandElement
+  async: false
+  customProperties: null
+  displayName: Autoformat Feature (using Cucumber)
+  input: [none, document]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: discard
+  path: commands/autoformat_feature_using_cucumber.rb
+  runType: current_thread
+  scope: text.cucumber.feature, source.ruby.rspec.cucumber.steps
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.CommandElement
+  async: false
+  customProperties: null
+  displayName: Choose Alternate File
+  input: [none]
+  inputPath: null
+  keyBindingMap:
+    ALL: [CONTROL+SHIFT+ARROW_UP]
+  outputPath: null
+  outputType: show_as_tooltip
+  path: commands/choose_alternate_file.rb
+  runType: current_thread
+  scope: text.cucumber.feature, source.ruby.rspec.cucumber.steps
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.CommandElement
+  async: false
+  customProperties: null
+  displayName: Create All Undefined Steps
+  input: [none]
+  inputPath: null
+  keyBindingMap:
+    ALL: [CONTROL+ALT+SHIFT+COMMAND+ARROW_DOWN]
+  outputPath: null
+  outputType: show_as_tooltip
+  path: commands/create_unimplemented_steps.rb
+  runType: current_thread
+  scope: text.cucumber.feature, source.ruby.cucumber.steps
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.CommandElement
+  async: false
+  customProperties: null
+  displayName: Goto Current Step
+  input: [none, document]
+  inputPath: null
+  keyBindingMap:
+    ALL: [CONTROL+ALT+SHIFT+ARROW_DOWN]
+  outputPath: null
+  outputType: show_as_tooltip
+  path: commands/goto_current_step.rb
+  runType: current_thread
+  scope: text.cucumber.feature, source.ruby.cucumber.steps
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.ContentAssistElement
+  async: false
+  customProperties: null
+  displayName: Plain Text Feature Completions
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: discard
+  path: commands/plain_text_feature_completion.rb
+  runType: current_thread
+  scope: text.cucumber.feature
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.CommandElement
+  async: false
+  customProperties: null
+  displayName: Run Single Scenario
+  input: [document, document]
+  inputPath: null
+  keyBindingMap:
+    ALL: [M1+M2+R]
+  outputPath: null
+  outputType: show_as_html
+  path: commands/run_single_scenario.rb
+  runType: current_thread
+  scope: text.cucumber.feature
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.CommandElement
+  async: false
+  customProperties: null
+  displayName: Run Feature
+  input: [document, document]
+  inputPath: null
+  keyBindingMap:
+    ALL: [M1+R]
+  outputPath: null
+  outputType: show_as_html
+  path: commands/run_story.rb
+  runType: current_thread
+  scope: text.cucumber.feature, source.ruby.rspec.cucumber.steps
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  category: null
+  customProperties:
+    prefix_values: [sc]
+  description: null
+  displayName: Scenario (heading only)
+  expansion: |
+    Scenario: ${1:title}
+    $0
+  iconPath: null
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets/feature_snippets.rb
+  runType: current_thread
+  scope: text.cucumber.feature
+  tags: *id001
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  category: null
+  customProperties:
+    prefix_values: [sco]
+  description: null
+  displayName: Scenario Outline
+  expansion: |
+    Scenario Outline: ${1:title}
+      Given ${2:context}
+      When ${3:event}
+      Then ${4:outcome}
+  iconPath: null
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets/feature_snippets.rb
+  runType: current_thread
+  scope: text.cucumber.feature
+  tags: *id001
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  category: null
+  customProperties:
+    prefix_values: [sce]
+  description: null
+  displayName: Scenario
+  expansion: |
+    Scenario: ${1:title}
+      Given ${2:context}
+      When ${3:event}
+      Then ${4:outcome}
+    $0
+  iconPath: null
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets/feature_snippets.rb
+  runType: current_thread
+  scope: text.cucumber.feature
+  tags: *id001
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.CommandElement
+  async: false
+  customProperties:
+    prefix_values: [fea]
+  displayName: Feature
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets/feature_snippets.rb
+  runType: current_thread
+  scope: text.cucumber.feature
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  category: null
+  customProperties:
+    prefix_values: [the]
+  description: null
+  displayName: Then Step Plaintext
+  expansion: Then ${1:outcome}
+  iconPath: null
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets/feature_snippets.rb
+  runType: current_thread
+  scope: text.cucumber.feature
+  tags: *id001
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  category: null
+  customProperties:
+    prefix_values: [whe]
+  description: null
+  displayName: When Step Plaintext
+  expansion: When ${1:event}
+  iconPath: null
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets/feature_snippets.rb
+  runType: current_thread
+  scope: text.cucumber.feature
+  tags: *id001
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.CommandElement
+  async: false
+  customProperties:
+    prefix_values: [steps]
+  displayName: Cucumber Multiline Steps
+  input: [clipboard]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets/step_snippets.rb
+  runType: current_thread
+  scope: source.ruby.rspec.cucumber.steps
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  category: null
+  customProperties:
+    prefix_values: [giv]
+  description: null
+  displayName: Given Step
+  expansion: |+
+    Given ${1:step_name} do
+      $0
+    end
+
+  iconPath: null
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets/step_snippets.rb
+  runType: current_thread
+  scope: source.ruby.rspec.cucumber.steps
+  tags: *id001
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  category: null
+  customProperties:
+    prefix_values: [the]
+  description: null
+  displayName: Then Step
+  expansion: |+
+    Then ${1:step name} do
+      $0
+    end
+
+  iconPath: null
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets/step_snippets.rb
+  runType: current_thread
+  scope: source.ruby.rspec.cucumber.steps
+  tags: *id001
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  category: null
+  customProperties:
+    prefix_values: [whe]
+  description: null
+  displayName: When Step
+  expansion: |+
+    When ${1:step name} do
+      $0
+    end
+
+  iconPath: null
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets/step_snippets.rb
+  runType: current_thread
+  scope: source.ruby.rspec.cucumber.steps
+  tags: *id001
+  workingDirectoryType: UNDEFINED
+copyright: Copyright 2010 Aptana Inc. Distributed under the MIT license.
+customProperties: null
+decreaseIndentMarkers: &id002 {}
+description: 'Cucumber RadRails bundle, ported from Ben Mabey''s Cucumber TextMate
+  bundle: http://github.com/bmabey/cucumber-tmbundle'
+displayName: Cucumber
+fileTypeRegistry: {'*.feature': text.cucumber.feature, '*steps.rb': source.ruby.rspec.cucumber.steps}
+fileTypes: ['*.feature', '*steps.rb']
+foldingStartMarkers: {!scope 'text.cucumber.feature': !regexp '(?-mix:^\s*\b(Cenário|Cenario|Escenari|Escenario|Forgatókönyv|MISHUN|Mate|Scenarie|Scenarijus|Scenario|Scenariu|Scenariusz|Scenár|Scenārijs|Scénario|Scénář|Skenario|Stsenaarium|Szenario|Tapaus|Tình
+    huống|Kịch bản|Сценарий|תרחיש|سيناريو|シナリオ|场景|場景|劇本|시나리오))'}
+foldingStopMarkers: {!scope 'text.cucumber.feature': !regexp '(?-mix:^\s*$)'}
+increaseIndentMarkers: *id002
+license: null
+licenseUrl: null
+path: bundle.rb
+repository: git://github.com/aptana/cucumber.ruble.git
+visible: true

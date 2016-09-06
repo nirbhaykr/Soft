@@ -1,0 +1,45 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest-Main-Attributes: GbthXBv+0zxtkCzQbk9e1CSxLng=
+Created-By: 1.6.0_27 (Sun Microsystems Inc.)
+SHA1-Digest-Manifest: GwfEf2uxR0AdKp5g64QLSCHpKC0=
+
+Name: OSGI-INF/l10n/bundle.properties
+SHA1-Digest: P68ZH6cm1iq25qzF4dIzWnEcY08=
+
+Name: com/aptana/ide/filesystem/s3/Messages.class
+SHA1-Digest: iDrSPJwz0sC5GJMhZVrb1TQV7sc=
+
+Name: com/aptana/ide/filesystem/s3/S3ConnectionPoint.class
+SHA1-Digest: arrEM/JABiCxPOnut2J0GlMG6cA=
+
+Name: com/aptana/ide/filesystem/s3/messages.properties
+SHA1-Digest: GL+5JzWXwOXUE8hMn7xXi5afBgk=
+
+Name: com/aptana/ide/filesystem/s3/Policy.class
+SHA1-Digest: q0SRl81qbtJUhx7Wb13qJZWJ+6A=
+
+Name: com/aptana/ide/filesystem/s3/S3FileStore.class
+SHA1-Digest: EpSKcownILV8qQty3h50zxa2uYo=
+
+Name: com/aptana/ide/filesystem/s3/S3FileStore$HttpForcingOutputStream
+ .class
+SHA1-Digest: qetq1AX9NBkLkij7LclW+4El97E=
+
+Name: com/aptana/ide/filesystem/s3/S3FileTree.class
+SHA1-Digest: H56pyLtVMWAr+G97iLI3AFWjvlw=
+
+Name: com/aptana/ide/filesystem/s3/S3FileTree$PsuedoDirEntry.class
+SHA1-Digest: 28EnUI4dkhpDUU1o8EnC3N0ecHw=
+
+Name: com/aptana/ide/filesystem/s3/S3FileSystem.class
+SHA1-Digest: Dbb7LGrBBZdn2x0e8IPpUsuMM4Q=
+
+Name: plugin.xml
+SHA1-Digest: j5AxM/tShZmAXx4Q7aPQ/c44L3E=
+
+Name: license.html
+SHA1-Digest: frQZzyXE22tcLyhWfrr3EnfGCSg=
+
+Name: com/aptana/ide/filesystem/s3/S3FileSystemPlugin.class
+SHA1-Digest: SHZERWX/ek0eIwkoL/puEm54hyU=
+

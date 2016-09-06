@@ -1,0 +1,44 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest-Main-Attributes: vXKuZeWXBZZb4NUvfMEthaSoBac=
+Created-By: 1.6.0_27 (Sun Microsystems Inc.)
+SHA1-Digest-Manifest: fzQt4oOfEYXJ0TJOyX+qe2nxI2w=
+
+Name: OSGI-INF/l10n/bundle.properties
+SHA1-Digest: dEmONTRacUoiH4f6ivxN9zQHzoo=
+
+Name: WinRegistry-4.4.jar
+SHA1-Digest: VX517+t6ctiTid8XnH85u9xDOHM=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: SwPvGXzoqhbu6llulpm8WpBxiUo=
+
+Name: winregistry-LICENSE
+SHA1-Digest: 5N014KlR1Mw1Q+Ef/0hJj8o10ow=
+
+Name: os/macosx/cocoasudo
+SHA1-Digest: 0zCSWpZX400MZpOyrZZWi5fHucQ=
+
+Name: ch/randelshofer/quaqua/util/BinaryPListParser$BPLUid.class
+SHA1-Digest: Gd+c1QIGLex0gsMCVjHKEsffHBg=
+
+Name: ch/randelshofer/quaqua/util/BinaryPListParser$BPLArray.class
+SHA1-Digest: pRPjVAx6P02k5kAaVf6NQaWoG9w=
+
+Name: ch/randelshofer/quaqua/util/BinaryPListParser$BPLDict.class
+SHA1-Digest: mhmcU8rclcbF1SlJYpBFTWK+1vM=
+
+Name: ch/randelshofer/quaqua/util/BinaryPListParser.class
+SHA1-Digest: 0dnFGsPjxSmqGF65KikyMBEokf8=
+
+Name: META-INF/p2.inf
+SHA1-Digest: jZwn1AkZlirDSFVeCv3iKQWgBNM=
+
+Name: quaqua.license.html
+SHA1-Digest: maHEl1ijBEMhLuAHQGgFDY1FEx4=
+
+Name: uuid.jar
+SHA1-Digest: 86Z+a+iGaqVMgyaq+qGduSDAWGw=
+
+Name: com/aptana/plist/IPListParser.class
+SHA1-Digest: aL8dMpHdagJ8uEENFd2sdllwG10=
+

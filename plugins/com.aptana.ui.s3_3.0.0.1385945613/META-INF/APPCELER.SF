@@ -1,0 +1,88 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest-Main-Attributes: HfQXNw6z5iuTDF/SAdS/2vrA1lw=
+Created-By: 1.6.0_27 (Sun Microsystems Inc.)
+SHA1-Digest-Manifest: 0+n9qyk1XTxcSZXyFr5kp+KAblg=
+
+Name: com/aptana/ui/s3/internal/IOptionsComposite.class
+SHA1-Digest: W24XMwd2+9/L1MB41WU1/tFZf7A=
+
+Name: com/aptana/ui/s3/internal/S3ConnectionPropertyComposite$3.class
+SHA1-Digest: rhxuv7cjLz4PnK08JWRFSsw/ROo=
+
+Name: icons/full/wizban/s3.png
+SHA1-Digest: iUYwbly9nC5tP9Fn1VUh+xM6PFE=
+
+Name: com/aptana/ui/s3/S3UIPlugin.class
+SHA1-Digest: WyZIH2alYOl3BP8l8kdNGXSAZsA=
+
+Name: com/aptana/ui/s3/internal/S3ConnectionPropertyComposite$4.class
+SHA1-Digest: VsaUluoDXlAd0ActpMVkV2C1Rxs=
+
+Name: icons/full/obj16/s3.png
+SHA1-Digest: D/+EuUxWET++/Kw31huzWAXPclQ=
+
+Name: com/aptana/ui/s3/dialogs/S3ConnectionPointPropertyDialog$1.class
+SHA1-Digest: gZ5//XG+QYHrnUOiOuz6o3RF7LQ=
+
+Name: com/aptana/ui/s3/internal/S3ConnectionPropertyComposite$6.class
+SHA1-Digest: a13mN+yNQcmLqrzfBmOymahnlQs=
+
+Name: com/aptana/ui/s3/internal/S3PropertyDialogProvider.class
+SHA1-Digest: irnbRBhsKfrfMRuFx3YZMxDksrw=
+
+Name: com/aptana/ui/s3/internal/S3ConnectionPropertyComposite$5.class
+SHA1-Digest: vVv7NCBbovhKQ0aWKfpk8zFr/Cs=
+
+Name: icons/full/etool16/new_connection.png
+SHA1-Digest: g7O5MVi+MN6+ny0Fub3cjrVRQ7g=
+
+Name: com/aptana/ui/s3/dialogs/Messages.class
+SHA1-Digest: 6l5x6FKTZr/wHPCBCLU2BC8gVsE=
+
+Name: com/aptana/ui/s3/dialogs/S3ConnectionPointPropertyDialog.class
+SHA1-Digest: q2jCWk7YaFe6+mpF6QEfSaYWYZs=
+
+Name: com/aptana/ui/s3/actions/NewS3ConnectionAction.class
+SHA1-Digest: 0Pcl5MTDYqlEUON2FvXtizQAalA=
+
+Name: icons/full/eview16/s3.png
+SHA1-Digest: jBD1HnhvzPAlpOXigVIOm0Zw+00=
+
+Name: com/aptana/ui/s3/internal/S3ConnectionPropertyComposite.class
+SHA1-Digest: a2P99qMYImIxzrwgPvQtmcPNGcs=
+
+Name: plugin.properties
+SHA1-Digest: ZM+fpDKM87neFRa77WjcL1HTVpo=
+
+Name: com/aptana/ui/s3/internal/IOptionsComposite$Listener.class
+SHA1-Digest: zwlPOzahYFmcRXkQae0ql3uyACk=
+
+Name: com/aptana/ui/s3/internal/S3ConnectionPropertyComposite$2.class
+SHA1-Digest: xzSNYnPz/x80UQDxgX2ZZrHnjPk=
+
+Name: com/aptana/ui/s3/dialogs/messages.properties
+SHA1-Digest: mbglFilTvMKSaRoCFUb1ViCblQo=
+
+Name: com/aptana/ui/s3/internal/S3ConnectionPropertyComposite$Listener
+ .class
+SHA1-Digest: ocL0o8bHA+wxagEyDgKPNpAtrTs=
+
+Name: com/aptana/ui/s3/internal/IConnectionRunnable.class
+SHA1-Digest: 25LB0yASKI45+fXDP9cICM5rnpQ=
+
+Name: plugin.xml
+SHA1-Digest: rMcxReKVUCKAHNEvJ1fugwFHlds=
+
+Name: license.html
+SHA1-Digest: frQZzyXE22tcLyhWfrr3EnfGCSg=
+
+Name: com/aptana/ui/s3/handlers/NewS3ConnectionHandler.class
+SHA1-Digest: YSab/E5JjfnYxE00SjvZrNe6fUg=
+
+Name: com/aptana/ui/s3/internal/S3ConnectionPropertyComposite$1.class
+SHA1-Digest: 4tcnAnuKQ2HxaN5CFM6LK155rto=
+
+Name: com/aptana/ui/s3/internal/S3ConnectionPropertyComposite$6$1.clas
+ s
+SHA1-Digest: /LSvRlqnI7aaMfUKbshU5xhgEuw=
+

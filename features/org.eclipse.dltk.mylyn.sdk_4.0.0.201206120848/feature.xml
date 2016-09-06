@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feature
+      id="org.eclipse.dltk.mylyn.sdk"
+      label="%featureName"
+      version="4.0.0.201206120848"
+      provider-name="%providerName"
+      image="eclipse_update_120.jpg">
+
+   <description>
+      %description
+   </description>
+
+   <license url="%licenseURL">
+      %license
+   </license>
+   
+   <plugin
+         id="org.eclipse.dltk.mylyn.source"
+         download-size="99"
+         install-size="179"
+         version="4.0.0.201206120848"
+         unpack="false"/>
+
+</feature>

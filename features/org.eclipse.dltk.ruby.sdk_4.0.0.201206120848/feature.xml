@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feature
+      id="org.eclipse.dltk.ruby.sdk"
+      label="%featureName"
+      version="4.0.0.201206120848"
+      provider-name="%providerName"
+      image="eclipse_update_120.jpg">
+
+   <description>
+      %description
+   </description>
+
+   <license url="%licenseURL">
+      %license
+   </license>
+
+  <plugin
+         id="org.eclipse.dltk.ruby.ui.source"
+         download-size="194"
+         install-size="347"
+         version="4.0.0.201206120848"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.dltk.ruby.core.source"
+         download-size="712"
+         install-size="1576"
+         version="4.0.0.201206120848"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.dltk.ruby.debug.ui.source"
+         download-size="47"
+         install-size="88"
+         version="4.0.0.201206120848"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.dltk.ruby.launching.source"
+         download-size="26"
+         install-size="53"
+         version="4.0.0.201206120848"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.dltk.ruby.debug.source"
+         download-size="11"
+         install-size="15"
+         version="4.0.0.201206120848"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.dltk.ruby.basicdebugger.source"
+         download-size="20"
+         install-size="42"
+         version="4.0.0.201206120848"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.dltk.ruby.activestatedebugger.source"
+         download-size="12"
+         install-size="20"
+         version="4.0.0.201206120848"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.dltk.ruby.source"
+         download-size="9"
+         install-size="9"
+         version="4.0.0.201206120848"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.dltk.ruby.abstractdebugger.source"
+         download-size="43"
+         install-size="136"
+         version="4.0.0.201206120848"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.dltk.ruby.fastdebugger.source"
+         download-size="22"
+         install-size="45"
+         version="4.0.0.201206120848"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.dltk.ruby.formatter.source"
+         download-size="408"
+         install-size="966"
+         version="4.0.0.201206120848"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.dltk.ruby.testing.source"
+         download-size="79"
+         install-size="163"
+         version="4.0.0.201206120848"
+         unpack="false"/>
+
+</feature>
